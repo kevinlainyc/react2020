@@ -37,6 +37,7 @@ class App extends Component {
     );
     return (
       <div className="App">
+        <h1> React 2020 </h1>
         <SearchBox 
           placeholder='search input'
           handleChange={this.handleChange}

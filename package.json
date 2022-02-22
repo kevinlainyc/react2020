@@ -2,7 +2,7 @@
   "name": "react-monster",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kevinlainyc/react2020",
+  "homepage": "https://github.io/kevinlainyc/react2020",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
